@@ -1,0 +1,101 @@
+.supported-nfts {
+  position: absolute;
+  width: 852px;
+  height: 1157px;
+  left: 306px;
+  top: 1591px;
+}
+
+.supported-nfts h2 {
+  width: 852px;
+  height: 55px;
+  left: 306px;
+  top: 1591px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 57px;
+  text-align: center;
+}
+
+.dropdown-selector-1 {
+  display: inline-block;
+
+  width: 392px;
+  height: 71px;
+  left: 306px;
+  top: 1750px;
+
+  border: 2px solid #ffffff;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 167%;
+
+  text-align: left;
+}
+
+.dropdown-selector-2 {
+  display: inline-block;
+  width: 392px;
+  height: 71px;
+  left: 711px;
+  top: 1750px;
+
+  border: 2px solid #ffffff;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 167%;
+
+  text-align: left;
+}
+
+.dropdown-selector-1 select {
+  width: 44px;
+  height: 42.55px;
+  left: 682.55px;
+  top: 1762px;
+
+  border: 3px solid #ffffff;
+  border-radius: 22px;
+  background: #000000;
+  transform: rotate(90deg);
+}
+
+.dropdown-selector-2 select {
+  width: 44px;
+  height: 42.55px;
+  left: 1087.55px;
+  top: 1762px;
+
+  border: 3px solid #ffffff;
+  border-radius: 22px;
+  background: #000000;
+  transform: rotate(90deg);
+}
+
+.lm-btn {
+  position: absolute;
+  width: 234px;
+  height: 80px;
+  left: 300px;
+  top: 970px;
+
+  background: #fff278;
+  border-radius: 60px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 92%;
+  text-align: center;
+  text-transform: lowercase;
+}

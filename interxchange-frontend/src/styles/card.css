@@ -1,0 +1,49 @@
+.card {
+  height: 224px;
+  width: 797px;
+
+  border: 2px solid #ffffff;
+  border-radius: 40px;
+  margin-top: 20px;
+}
+
+.card a {
+  text-decoration-style: none;
+}
+
+.card-img {
+  height: 224px;
+  width: 340px;
+  border-radius: 40px 0px 0px 40px;
+}
+
+.card-heading {
+  width: 368px;
+  height: 49px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 217%;
+}
+
+.card-body {
+  width: 368px;
+  height: 59px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 123%;
+}
+
+.card-btn {
+  position: relative;
+  width: 74px;
+  height: 74px;
+  top: 50%;
+  right: 100%;
+  background: #fff278;
+}

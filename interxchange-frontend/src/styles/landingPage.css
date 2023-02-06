@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
+
+body {
+  background-color: #0c1021;
+  color: #ffffff;
+  position: relative;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.heading {
+  position: absolute;
+  width: 456px;
+  height: 61px;
+  left: 98px;
+  top: 85px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 66px;
+  line-height: 35%;
+
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.logo {
+  position: absolute;
+  width: 316px;
+  height: 330px;
+  left: 183px;
+  top: 319px;
+  z-index: 2;
+}
+
+.vectors {
+  position: absolute;
+  width: 537px;
+  height: 505.82px;
+  left: 98px;
+  top: 271px;
+  z-index: 1;
+}
+
+.side-text h2 {
+  position: absolute;
+  width: 560px;
+  height: 61px;
+  left: 740px;
+  top: 289px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 57px;
+}
+
+.side-text p {
+  position: absolute;
+  width: 520px;
+  height: 272px;
+  left: 740px;
+  top: 372px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 133%;
+}
+
+.launch-btn {
+  position: absolute;
+  width: 234px;
+  height: 80px;
+  left: 740px;
+  top: 695px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 92%;
+
+  text-align: center;
+  text-transform: capitalize;
+
+  background: #fff278;
+  border-radius: 60px;
+}
+
+.launch-btn:hover {
+  background: #0c1021;
+  color: #fff278;
+}
+
+.launch-btn:focus {
+  background: #ffffff;
+}
+
+.extra-text {
+  position: absolute;
+  width: 885px;
+  height: 65px;
+  left: 290px;
+  top: 1041px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 41px;
+  line-height: 52px;
+  text-align: center;
+}
+
+.component1 {
+  position: absolute;
+  width: 999.53px;
+  height: 201.06px;
+  left: -206px;
+  top: 1217px;
+}
+
+.component2 {
+  position: absolute;
+  width: 999.53px;
+  height: 201.06px;
+  left: 737px;
+  top: 1217px;
+}

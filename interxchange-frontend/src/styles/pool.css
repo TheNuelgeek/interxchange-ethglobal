@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
+
+.network-selector1 {
+  position: absolute;
+  width: 396px;
+  height: 71px;
+  left: 898px;
+  top: 368px;
+  padding-top: 9px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 167%;
+  text-align: right;
+
+  border: 2px solid #ffffff;
+}
+
+.network-selector1 select {
+  width: 44px;
+  height: 36.95px;
+  left: 1283.08px;
+  top: 380px;
+  border-radius: 30px;
+  margin-left: 25px;
+
+  background: #fff278;
+  /* transform: rotate(90deg); */
+}
+
+.top-part p {
+  position: absolute;
+  width: 118px;
+  height: 48px;
+  left: 137px;
+  top: 340px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 37px;
+  line-height: 47px;
+
+  color: #fff278;
+}
+
+.position {
+  position: absolute;
+  width: 888px;
+  height: 355px;
+  left: 276px;
+  top: 554px;
+
+  border: 1px solid #ffffff;
+  border-radius: 40px;
+}
+
+.position button {
+  width: 127px;
+  height: 41px;
+  left: 656px;
+  top: 614px;
+
+  background: #fff278;
+  border-radius: 60px;
+}

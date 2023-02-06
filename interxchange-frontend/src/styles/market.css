@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
+
+.network-selector {
+  position: absolute;
+  width: 396px;
+  height: 71px;
+  left: 151px;
+  top: 368px;
+  padding-top: 9px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 167%;
+  text-align: right;
+
+  border: 2px solid #ffffff;
+}
+
+.network-selector select {
+  width: 44px;
+  height: 36.95px;
+  left: 1283.08px;
+  top: 380px;
+  border-radius: 30px;
+  margin-left: 25px;
+
+  background: #fff278;
+  /* transform: rotate(90deg); */
+}
+
+.text1 {
+  position: absolute;
+  width: 154px;
+  height: 25px;
+  left: 855px;
+  top: 365px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17px;
+}
+
+.text2 {
+  position: absolute;
+  width: 94px;
+  height: 48px;
+  left: 861px;
+  top: 396px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 37px;
+  line-height: 47px;
+
+  color: #fff278;
+}
+
+.text3 {
+  position: absolute;
+  width: 129px;
+  height: 21px;
+  left: 1020px;
+  top: 367px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 22px;
+}
+
+.text4 {
+  position: absolute;
+  width: 105px;
+  height: 48px;
+  left: 1026px;
+  top: 396px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 37px;
+  line-height: 47px;
+  color: #fff278;
+}
+
+.text5 {
+  position: absolute;
+  width: 128px;
+  height: 25px;
+  left: 1166px;
+  top: 365px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 22px;
+}
+
+.text6 {
+  position: absolute;
+  width: 94px;
+  height: 48px;
+  left: 1172px;
+  top: 396px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 37px;
+  line-height: 47px;
+  color: #fff278;
+}
+
+.token-btn {
+  position: absolute;
+  width: 101px;
+  height: 50px;
+  left: 151px;
+  top: 506px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 50px;
+
+  background-color: transparent;
+  border: 0px;
+  color: #ffffff;
+}
+
+.token-btn:hover {
+  color: #fff278;
+}
+
+.nft-btn {
+  position: absolute;
+  width: 68px;
+  height: 50px;
+  left: 308px;
+  top: 506px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 50px;
+
+  background-color: transparent;
+  border: 0px;
+  color: #ffffff;
+}
+
+.nft-btn:hover {
+  color: #fff278;
+}
+
+.table {
+  position: absolute;
+  width: 1143px;
+  height: 744px;
+  left: 151px;
+  top: 580px;
+}
